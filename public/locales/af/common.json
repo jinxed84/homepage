@@ -13,7 +13,7 @@
         "ms": "{{value, number}}",
         "date": "{{value, date}}",
         "uptime": "{{value, uptime}}",
-        "months": "mo",
+        "months": "ma",
         "days": "d",
         "hours": "h",
         "minutes": "m",

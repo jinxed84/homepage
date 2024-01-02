@@ -12,7 +12,7 @@
         "number": "{{value, number}}",
         "ms": "{{value, number}}",
         "date": "{value, date}",
-        "uptime": "{{value, čas prevádzky}}",
+        "uptime": "{{value, uptime}}",
         "months": "mes",
         "days": "d",
         "hours": "h",
@@ -51,7 +51,7 @@
     "unifi": {
         "users": "Používatelia",
         "uptime": "Prevádzka",
-        "days": "dní",
+        "days": "Dní",
         "wan": "WAN",
         "lan": "Lokálna sieť",
         "wlan": "WLAN",
@@ -637,7 +637,7 @@
         "books": "Knihy"
     },
     "diskstation": {
-        "days": "dní",
+        "days": "Dní",
         "uptime": "Prevádzka",
         "volumeAvailable": "Dostupné"
     },
